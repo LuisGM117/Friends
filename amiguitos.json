@@ -1,0 +1,29 @@
+[
+	{
+		"nombre" : "Diego",
+		"apellido": "Fernandez",
+		"hobby": "pistear",
+		"age": 22,
+		"phone": 3334058070,
+		"address": "Vive por el metro xd"
+	},
+
+	{
+		"nombre" : "Brandon",
+		"apellido": "De alba",
+		"hobby": "Dormir",
+		"age": 22,
+		"phone": 3334058071,
+		"address": "Vive por las alitas las mu"
+	},
+
+	{
+		"nombre" : "Hyuntae",
+		"apellido": "Kim",
+		"hobby": "Jugar Videojuegos",
+		"age": 24,
+		"phone": 3334058072,
+		"address": "Cima Park"
+	}
+
+]
